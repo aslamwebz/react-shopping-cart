@@ -1,6 +1,6 @@
 <h1>React Shopping Cart</h1>
 <hr />
-<h3>A Shopping cart created using React and Redux</h3>
+<h3>A Shopping cart created using React and Redux with Filtering</h3>
 <br />
 <br />
 View Our live demo from here : 
